@@ -3,5 +3,5 @@ FROM fedora:$FEDORA_VERSION
 
 MAINTAINER "Pierre Navaro" pierre.navaro@math.cnrs.fr
 
-CMD [ "/bin/echo" "Bonjour" ]
+CMD [ "/bin/echo","Bonjour" ]
 
