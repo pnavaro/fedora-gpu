@@ -1,6 +1,6 @@
 # Fedora 
 
-See <https://github.com/NVIDIA/nvidia-docker/wiki/Driver-containers-(Beta>)
+See <https://github.com/NVIDIA/nvidia-docker/wiki/Driver-containers-(Beta)>
 
 Building and running locally:
 
